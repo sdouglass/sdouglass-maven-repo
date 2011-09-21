@@ -1,0 +1,9 @@
+Maven repository for my projects. To import a dependency from this repository use this XML:
+
+  <repositories>
+      <repository>
+          <id>sdouglass-snapshots</id>
+          <url>https://raw.github.com/sdouglass/sdouglass-maven-repo/master/snapshots</url>
+      </repository>
+  </repositories>
+
