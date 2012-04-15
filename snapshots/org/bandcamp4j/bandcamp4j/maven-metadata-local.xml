@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.bandcamp4j</groupId>
+  <artifactId>bandcamp4j</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120415073500</lastUpdated>
+  </versioning>
+</metadata>
