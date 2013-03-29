@@ -1,9 +1,24 @@
-Maven repository for my projects. To import a dependency from this repository use this XML:
+Maven repository for my projects. 
+
+To import a release version dependency from this repository use this XML:
 
   <repositories>
+  ...
+      <repository>
+          <id>sdouglass-releases</id>
+          <url>https://raw.github.com/sdouglass/sdouglass-maven-repo/master/releases</url>
+      </repository>
+  ...
+  </repositories>
+
+To import a snapshot version dependency from this repository use this XML:
+
+  <repositories>
+  ...
       <repository>
           <id>sdouglass-snapshots</id>
           <url>https://raw.github.com/sdouglass/sdouglass-maven-repo/master/snapshots</url>
       </repository>
+  ...
   </repositories>
 
